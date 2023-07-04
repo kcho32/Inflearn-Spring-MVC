@@ -1,0 +1,6 @@
+[submodule "SpringMVC"]
+	path = SpringMVC
+	url = https://github.com/kcho32/SpringMVC.git
+[submodule "SpringServlet"]
+	path = SpringServlet
+	url = https://github.com/kcho32/SpringServlet.git
