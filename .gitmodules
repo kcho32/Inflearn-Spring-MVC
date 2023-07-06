@@ -4,3 +4,6 @@
 [submodule "SpringServlet"]
 	path = SpringServlet
 	url = https://github.com/kcho32/SpringServlet.git
+[submodule "SpringWebProject"]
+	path = SpringWebProject
+	url = https://github.com/kcho32/SpringWebProject.git
